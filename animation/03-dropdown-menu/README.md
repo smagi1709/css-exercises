@@ -16,3 +16,6 @@ Your task is to add animation to the dropdown menu so that it will have an effec
 
 - The dropdown menu expands after you click on the menu title
 - There's a _bounce_ illusion towards the end of the animation
+
+### MY NOTE
+I had to check solution, so I would not count it as passed
